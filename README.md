@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m @paperplane110
   
-👀 I’m interested in front-end development, reading, making coffee~
+👀 I’m interested in full-stack, reading, making coffee~
   
 🌱 I’m currently learning MERN full stack
   
